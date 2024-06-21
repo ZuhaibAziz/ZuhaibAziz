@@ -1,4 +1,4 @@
-# Hello World! 🌍 I'm Zuhaib Aziz
+# Hello!🌍 I'm Zuhaib Aziz
 
 Welcome to my coding universe! 🚀 I'm Zuhaib, a passionate developer on a mission to create extraordinary digital experiences.
 
